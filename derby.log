@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Apr 11 21:49:47 MST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0171-6cb8-de64-00000eb408a0 
+on database directory memory:/Users/anaypaul/Documents/workspace-spring-tool-suite-4-4.5.1.RELEASE/DesignPatterns/codejava/webdb with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
+Loaded from file:/Users/anaypaul/Documents/workspace-spring-tool-suite-4-4.5.1.RELEASE/DesignPatterns/src/com/creationalpattern/singleton/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/Users/anaypaul/Documents/workspace-spring-tool-suite-4-4.5.1.RELEASE/DesignPatterns
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
